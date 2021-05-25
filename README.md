@@ -5,7 +5,7 @@ Run the following command and  get back a JSON response of the output from the g
 * command to hit the root path
   * curl localhost:3000
 
-*  Social netwroks sites
+* Social netwroks sites
   * https://takehome.io/twitter
   * https://takehome.io/facebook
   * https://takehome.io/instagram
